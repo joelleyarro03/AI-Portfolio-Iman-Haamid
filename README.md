@@ -5,7 +5,7 @@ Showcases my skills and knowledge gained during my studies in the Applied AI and
 
 ## Team Members
 
-- [Iman Haamid] — Owner/Novice NLP user/
+- [Iman Haamid] — Owner/Novice NLP user/Student
 
 ---
 
