@@ -7,8 +7,8 @@ The specific sub-directory, NLP-ITAI2373, focuses on Natural Language Processing
 
 Purpose
 
-    To document and demonstrate progress and achievements in the Applied AI and Robotics program.
+    > To document and demonstrate progress and achievements in the Applied AI and Robotics program.
 
-    To provide evidence of practical skills in AI, NLP, and robotics through project-based learning.
+    > To provide evidence of practical skills in AI, NLP, and robotics through project-based learning.
 
-    To serve as a portfolio for academic review, job applications, or further research opportunities.
+    > To serve as a portfolio for academic review, job applications, or further research opportunities.
