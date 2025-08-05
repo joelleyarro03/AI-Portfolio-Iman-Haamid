@@ -1,4 +1,5 @@
-#AI-Portfolio-Iman-Haamid
+# AI-Portfolio-Iman-Haamid
+=============================
 
 This repository showcases the skills and knowledge Iman Haamid gained during their studies in the Applied AI and Robotics program. It contains a curated collection of projects, primarily implemented in Jupyter Notebooks, demonstrating practical and theoretical proficiency in key areas of Artificial Intelligence and Robotics.
 
