@@ -15,11 +15,6 @@ The specific sub-directory, NLP-ITAI2373, focuses on Natural Language Processing
 
 ***Table of Contents***
 
-
-To transform the file structure into a table of contents for your GitHub repo, you can use the following format. This provides a clean, organized, and scannable list that's easy to add to your `README.md` file.
-
-### Table of Contents
-
   - **[code/](https://github.com/imid12/AI-Portfolio-Iman-Haamid/tree/main/NLP-ITAI2373/code)**
 
       - [L02\_ImanHaamid\_ITAI\_2373.ipynb](https://github.com/imid12/AI-Portfolio-Iman-Haamid/blob/main/NLP-ITAI2373/code/L02_ImanHaamid_ITAI_2373.ipynb)
