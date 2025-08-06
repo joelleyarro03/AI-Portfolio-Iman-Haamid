@@ -1,4 +1,4 @@
-# AI-Portfolio-Iman-Haamid
+![AI-Portfolio-Iman-Haamid](images/Gemini_Generated_Image_hxc41zhxc41zhxc4.png)
 A demonstration of my skills and knowledge gained during my studies in the Applied AI and Robotics program.
 
 ---
