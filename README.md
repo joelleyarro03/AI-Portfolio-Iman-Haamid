@@ -24,7 +24,7 @@ A demonstration of my skills and knowledge gained during my studies in the Appli
 
 ## Coursework
 
-    ITAI 2373 - Natural Language Processing: Explored techniques for text analysis, including sentiment analysis, text classification, and chatbot development
+    [ITAI 2373](/NLP-ITAI2373)  - Natural Language Processing: Explored techniques for text analysis, including sentiment analysis, text classification, and chatbot development
 
 ---
 
