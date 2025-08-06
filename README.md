@@ -9,9 +9,9 @@ A demonstration of my skills and knowledge gained during my studies in the Appli
 
 ---
 
-Overview of Skills and Technologies
+## Overview of Skills and Technologies
 
-This section should highlight the key technologies and skills you've gained, making it easy for recruiters or collaborators to see your expertise at a glance.
+ Learn to build a robust emotion detection system that can analyze and interpret emotions from both text and audio. This hands-on experience will give you a powerful new skill set in multimodal data analysis. Explored fundamental text representation techniques, including ***Bag of Words, TF-IDF, N-grams, and word embeddings.*** Learned to convert text into numerical features through hands-on implementation and compare the effectiveness of each method.
 
     Programming Languages: Python, Rust
 
@@ -22,11 +22,7 @@ This section should highlight the key technologies and skills you've gained, mak
     Core Concepts: Natural Language Processing (NLP)
 ---
 
-Overview of Coursework
-
-Sentiment and Emotion Analysis Lab
-Learn to build a robust emotion detection system that can analyze and interpret emotions from both text and audio. This hands-on experience will give you a powerful new skill set in multimodal data analysis.
-Explore fundamental text representation techniques, including ***Bag of Words, TF-IDF, N-grams, and word embeddings.*** You'll learn to convert text into numerical features through hands-on implementation and compare the effectiveness of each method.
+## Coursework
 
     ITAI 2373 - Natural Language Processing: Explored techniques for text analysis, including sentiment analysis, text classification, and chatbot development
 
@@ -56,11 +52,10 @@ AI-Portfolio-Iman-Haamid/NLP-ITAI2373/
 |       ├── NewsBot_Reflection_[Group 5]-1
 │   └── ...
 └── README.md
+
 ```
 
-Contact Me
-
-Include your professional contact information. This makes it easy for potential employers or collaborators to get in touch.
+## Contact Me
 
     LinkedIn: [Your LinkedIn Profile URL]
 
