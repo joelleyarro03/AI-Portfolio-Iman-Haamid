@@ -14,6 +14,7 @@ A demonstration of my skills and knowledge gained during my studies in the Appli
 ```
 AI-Portfolio-Iman-Haamid/NLP-ITAI2373/
 │
+├── README.md
 ├── code/
 │   ├── L02_ImanHaamid_ITAI_2373.ipynb
 │   ├── L04 _Text_Representation_ITAI2373_Lab-1(1).ipynb
