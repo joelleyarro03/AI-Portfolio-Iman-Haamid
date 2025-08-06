@@ -27,9 +27,9 @@ The specific sub-directory, NLP-ITAI2373, focuses on Natural Language Processing
   - **[docs/](https://github.com/imid12/AI-Portfolio-Iman-Haamid/tree/main/NLP-ITAI2373/docs)**
 
       - **[journal entries/](https://github.com/imid12/AI-Portfolio-Iman-Haamid/tree/main/NLP-ITAI2373/docs/journal%20entries)**
-          - [L001\_Iman\_Haamid\_ITAI2373-1](https://github.com/imid12/AI-Portfolio-Iman-Haamid/blob/main/NLP-ITAI2373/docs/journal%20entries/L001_Iman_Haamid_ITAI2373-1.md)
-          - [L02\_Journal\_ImanHaamid\_ITAI\_2373-1](https://github.com/imid12/AI-Portfolio-Iman-Haamid/blob/main/NLP-ITAI2373/docs/journal%20entries/L02_Journal_ImanHaamid_ITAI_2373-1.md)
-          - [L04\_Journal\_ImanHaamid\_ITAI\_2373-1](https://github.com/imid12/AI-Portfolio-Iman-Haamid/blob/main/NLP-ITAI2373/docs/journal%20entries/L04_Journal_ImanHaamid_ITAI_2373-1.md)
+          - [L001\_Iman\_Haamid\_ITAI2373-1](https://github.com/imid12/AI-Portfolio-Iman-Haamid/tree/main/NLP-ITAI2373/docs/journal%20entries/L001_Iman_Haamid_ITAI2373-1.md)
+          - [L02\_Journal\_ImanHaamid\_ITAI\_2373-1](https://github.com/imid12/AI-Portfolio-Iman-Haamid/tree/main/NLP-ITAI2373/docs/journal%20entries/L02_Journal_ImanHaamid_ITAI_2373-1.md)
+          - [L04\_Journal\_ImanHaamid\_ITAI\_2373-1](https://github.com/imid12/AI-Portfolio-Iman-Haamid/tree/main/NLP-ITAI2373/docs/journal%20entries/L04_Journal_ImanHaamid_ITAI_2373-1.md)
       - **[reports/](https://github.com/imid12/AI-Portfolio-Iman-Haamid/tree/main/NLP-ITAI2373/docs/reports)**
           - [A03\_Group5\_ImanHaamid\_ITAI\_2373-1](https://github.com/imid12/AI-Portfolio-Iman-Haamid/blob/main/NLP-ITAI2373/docs/reports/A03_Group5_ImanHaamid_ITAI_2373-1.md)
           - [NewsBot\_Reflection\_[Group 5]-1](https://github.com/imid12/AI-Portfolio-Iman-Haamid/blob/main/NLP-ITAI2373/docs/reports/NewsBot_Reflection_%255BGroup%25205%255D-1.md)
