@@ -1,5 +1,4 @@
 <img src="../images/Gemini_Generated_Image_hxc41zhxc41zhxc4.png" width="350" height="350" alt="NLP-ITAI2373">
----
 This repository showcases the skills and knowledge Iman Haamid gained during their studies in the Applied AI and Robotics program. It contains a curated collection of projects, primarily implemented in Jupyter Notebooks, demonstrating practical and theoretical proficiency in key areas of Artificial Intelligence and Robotics.
 
 The specific sub-directory, NLP-ITAI2373, focuses on Natural Language Processing (NLP) coursework and projects, reflecting hands-on experience with language technologies and related AI methodologies.
