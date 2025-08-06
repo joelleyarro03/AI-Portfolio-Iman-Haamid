@@ -33,6 +33,3 @@ The specific sub-directory, NLP-ITAI2373, focuses on Natural Language Processing
       - **[reports/](https://github.com/imid12/AI-Portfolio-Iman-Haamid/tree/main/NLP-ITAI2373/docs/reports)**
           - [A03\_Group5\_ImanHaamid\_ITAI\_2373-1](https://github.com/imid12/AI-Portfolio-Iman-Haamid/blob/main/NLP-ITAI2373/docs/reports/A03_Group5_ImanHaamid_ITAI_2373-1.pdf)
           - [NewsBot\_Reflection\_[Group 5]-1](https://github.com/imid12/AI-Portfolio-Iman-Haamid/blob/main/NLP-ITAI2373/docs/reports/NewsBot_Reflection_%255BGroup%25205%255D-1.pdf)
-
-
-https://github.com/imid12/AI-Portfolio-Iman-Haamid/tree/main/NLP-ITAI2373/docs/journal%20entries
