@@ -13,21 +13,20 @@ Overview of Skills and Technologies
 
 This section should highlight the key technologies and skills you've gained, making it easy for recruiters or collaborators to see your expertise at a glance.
 
-    Programming Languages: Python, Java, C++
+    Programming Languages: Python, Rust
 
-    AI/ML Frameworks: TensorFlow, PyTorch, Scikit-learn
+    AI/ML Frameworks: Scikit-learn, VADER, TextBlob, spaCy
 
-    Robotics: ROS (Robot Operating System), Gazebo
+    Tools & Platforms: Git, Jupyter, Google Colab
 
-    Tools & Platforms: Git, Docker, AWS, Jupyter
-
-    Core Concepts: Natural Language Processing (NLP), Computer Vision (CV), Reinforcement Learning (RL)
-
+    Core Concepts: Natural Language Processing (NLP)
 ---
 
-Coursework
+Overview of Coursework
 
-Provide a list of relevant courses and a brief, one-sentence description of what you learned in each. This shows the depth and breadth of your knowledge.
+Sentiment and Emotion Analysis Lab
+Learn to build a robust emotion detection system that can analyze and interpret emotions from both text and audio. This hands-on experience will give you a powerful new skill set in multimodal data analysis.
+Explore fundamental text representation techniques, including ***Bag of Words, TF-IDF, N-grams, and word embeddings.*** You'll learn to convert text into numerical features through hands-on implementation and compare the effectiveness of each method.
 
     ITAI 2373 - Natural Language Processing: Explored techniques for text analysis, including sentiment analysis, text classification, and chatbot development
 
