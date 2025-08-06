@@ -9,7 +9,31 @@ A demonstration of my skills and knowledge gained during my studies in the Appli
 
 ---
 
-## Project Structure
+Overview of Skills and Technologies
+
+This section should highlight the key technologies and skills you've gained, making it easy for recruiters or collaborators to see your expertise at a glance.
+
+    Programming Languages: Python, Java, C++
+
+    AI/ML Frameworks: TensorFlow, PyTorch, Scikit-learn
+
+    Robotics: ROS (Robot Operating System), Gazebo
+
+    Tools & Platforms: Git, Docker, AWS, Jupyter
+
+    Core Concepts: Natural Language Processing (NLP), Computer Vision (CV), Reinforcement Learning (RL)
+
+---
+
+Coursework
+
+Provide a list of relevant courses and a brief, one-sentence description of what you learned in each. This shows the depth and breadth of your knowledge.
+
+    ITAI 2373 - Natural Language Processing: Explored techniques for text analysis, including sentiment analysis, text classification, and chatbot development
+
+---
+
+## Repository Structure
 
 ```
 AI-Portfolio-Iman-Haamid/NLP-ITAI2373/
@@ -34,3 +58,15 @@ AI-Portfolio-Iman-Haamid/NLP-ITAI2373/
 │   └── ...
 └── README.md
 ```
+
+Contact Me
+
+Include your professional contact information. This makes it easy for potential employers or collaborators to get in touch.
+
+    LinkedIn: [Your LinkedIn Profile URL]
+
+    Email: [Your Professional Email Address]
+
+    Portfolio/Website: [Your Personal Portfolio URL, if you have one]
+
+
