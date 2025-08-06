@@ -12,3 +12,29 @@ The specific sub-directory, NLP-ITAI2373, focuses on Natural Language Processing
 - To provide evidence of practical skills in AI, NLP, and robotics through project-based learning.
 
 - To serve as a portfolio for academic review, job applications, or further research opportunities.
+
+***Table of Contents***
+
+
+To transform the file structure into a table of contents for your GitHub repo, you can use the following format. This provides a clean, organized, and scannable list that's easy to add to your `README.md` file.
+
+### Table of Contents
+
+  - **[code/](https://github.com/imid12/AI-Portfolio-Iman-Haamid/tree/main/NLP-ITAI2373/code)**
+
+      - [L02\_ImanHaamid\_ITAI\_2373.ipynb](https://github.com/imid12/AI-Portfolio-Iman-Haamid/blob/main/NLP-ITAI2373/code/L02_ImanHaamid_ITAI_2373.ipynb)
+      - [L04\_Text\_Representation\_ITAI2373\_Lab-1(1).ipynb](https://github.com/imid12/AI-Portfolio-Iman-Haamid/blob/main/NLP-ITAI2373/code/L04_Text_Representation_ITAI2373_Lab-1\(1\).ipynb)
+      - [L05\_ImanHaamid\_ITAI\_2373.ipynb](https://github.com/imid12/AI-Portfolio-Iman-Haamid/blob/main/NLP-ITAI2373/code/L05_ImanHaamid_ITAI_2373.ipynb)
+      - [L07\_ImanHaamid\_ITAI\_2373.ipynb](https://github.com/imid12/AI-Portfolio-Iman-Haamid/blob/main/NLP-ITAI2373/code/L07_ImanHaamid_ITAI_2373.ipynb)
+      - [Midterm\_NewsBot\_Intelligence\_System\_Group\_5\_ITAI2373.ipynb](https://github.com/imid12/AI-Portfolio-Iman-Haamid/blob/main/NLP-ITAI2373/code/Midterm_NewsBot_Intelligence_System_Group_5_ITAI2373.ipynb)
+      - [MidtermFirstTry.ipynb](https://github.com/imid12/AI-Portfolio-Iman-Haamid/blob/main/NLP-ITAI2373/code/MidtermFirstTry.ipynb)
+
+  - **[docs/](https://github.com/imid12/AI-Portfolio-Iman-Haamid/tree/main/NLP-ITAI2373/docs)**
+
+      - **[journal entries/](https://github.com/imid12/AI-Portfolio-Iman-Haamid/tree/main/NLP-ITAI2373/docs/journal%2520entries)**
+          - [L001\_Iman\_Haamid\_ITAI2373-1](https://github.com/imid12/AI-Portfolio-Iman-Haamid/blob/main/NLP-ITAI2373/docs/journal%2520entries/L001_Iman_Haamid_ITAI2373-1.md)
+          - [L02\_Journal\_ImanHaamid\_ITAI\_2373-1](https://github.com/imid12/AI-Portfolio-Iman-Haamid/blob/main/NLP-ITAI2373/docs/journal%2520entries/L02_Journal_ImanHaamid_ITAI_2373-1.md)
+          - [L04\_Journal\_ImanHaamid\_ITAI\_2373-1](https://github.com/imid12/AI-Portfolio-Iman-Haamid/blob/main/NLP-ITAI2373/docs/journal%2520entries/L04_Journal_ImanHaamid_ITAI_2373-1.md)
+      - **[reports/](https://github.com/imid12/AI-Portfolio-Iman-Haamid/tree/main/NLP-ITAI2373/docs/reports)**
+          - [A03\_Group5\_ImanHaamid\_ITAI\_2373-1](https://github.com/imid12/AI-Portfolio-Iman-Haamid/blob/main/NLP-ITAI2373/docs/reports/A03_Group5_ImanHaamid_ITAI_2373-1.md)
+          - [NewsBot\_Reflection\_[Group 5]-1](https://github.com/imid12/AI-Portfolio-Iman-Haamid/blob/main/NLP-ITAI2373/docs/reports/NewsBot_Reflection_%255BGroup%25205%255D-1.md)
