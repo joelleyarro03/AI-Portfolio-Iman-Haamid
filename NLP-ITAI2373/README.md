@@ -15,7 +15,7 @@ The specific sub-directory, NLP-ITAI2373, focuses on Natural Language Processing
 
 ***Table of Contents***
 
-  - **[code/](/code)**
+  - **[code/](#code)**
 
       - [L02\_ImanHaamid\_ITAI\_2373.ipynb](/code/L02_ImanHaamid_ITAI_2373.ipynb)
       - [L04\_Text\_Representation\_ITAI2373\_Lab-1(1).ipynb](/code/L04_Text_Representation_ITAI2373_Lab-1\(1\).ipynb)
