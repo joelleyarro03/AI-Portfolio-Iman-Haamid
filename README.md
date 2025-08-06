@@ -49,7 +49,7 @@ AI-Portfolio-Iman-Haamid/NLP-ITAI2373/
 |       ├── L04_Journal_ImanHaamid_ITAI_2373-1
 |   ├── reports/
 |       ├── A03_Group5_ImanHaamid_ITAI_2373-1
-|       ├── NewsBot_Reflection_[Group 5]-1
+|       ├── NewsBot_Reflection_Group 5-1
 │   └── ...
 └── README.md
 
