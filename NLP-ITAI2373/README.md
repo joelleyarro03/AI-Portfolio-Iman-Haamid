@@ -1,4 +1,4 @@
-<img src="images/Gemini_Generated_Image_hxc41zhxc41zhxc4.png" width="350" height="350" alt="NLP-ITAI2373">
+<img src="/AI-Portfolio-Iman-Haamid/images/Gemini_Generated_Image_hxc41zhxc41zhxc4.png" width="350" height="350" alt="NLP-ITAI2373">
 
 #### ***AI-Portfolio-Iman-Haamid***
 ---
